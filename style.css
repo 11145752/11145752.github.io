@@ -1,1 +1,12 @@
+body{
 
+}
+
+h1{
+  text-transform: uppercase;
+  text-align: centre; 
+  background-color: aquamarine;
+  color: #3F94A6;
+  font-family: Arial, "Arial Black", "Arial Narrow", Arial Rounded MT Bold";
+
+}
